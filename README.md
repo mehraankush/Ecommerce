@@ -1,5 +1,5 @@
 [LINK](https://beautiful.pages.dev/)
-<p align="center"><img style="margin-right:40px ;" align="center" src="./Landing_page.jpg" 
+<p align="center"><img style="margin-right:40px ;" align="center" src="./Landing-page.jpeg" 
      alt="image" height="500" width="850" ></p>
 
 # Getting Started with Create React App

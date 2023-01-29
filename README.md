@@ -1,4 +1,6 @@
-!(./Landing-page.jpg)
+[LINK](https://beautiful.pages.dev/)
+<p align="center"><img style="margin-right:40px ;" align="center" src="./Landing_page.jpg" 
+     alt="image" height="500" width="850" ></p>
 
 # Getting Started with Create React App
 
